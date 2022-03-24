@@ -1,3 +1,4 @@
+% Samuel's Revert Button
 % Button pushed function: ReverttoOriginalWaveButton
 function ReverttoOriginalWaveButtonPushed(app, event)
     %reverts the audo signal to the original signal and changes the
