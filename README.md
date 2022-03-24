@@ -1,6 +1,6 @@
 # ECE 45 Project
 
-**WriteUp**: https://docs.google.com/document/d/1-PklaLzHlRXwMI3MqSpiVbi54QWSGhkTUL_BuCqcdHw/edit?usp=sharing
+**Writeup**: https://docs.google.com/document/d/1-PklaLzHlRXwMI3MqSpiVbi54QWSGhkTUL_BuCqcdHw/edit?usp=sharing
 
 # Contributors:
 **Samuel Wu**: I created and designed the GUI and adjusted all of the functions to run on the GUI. I authored “VolumeSliderValueChanged.m”, “SpeedSliderValueChanged.m”, “PitchSliderValueChanged.m”, “MixAudioButtonPushed.m”, “ReverttoOriginalWaveButtonPushed.m”, “ChooseAudioDropDownValueChanged.m”, “SelectAudiotoMixDropDownValueChanged.m”, and “startupFcn.m”.
