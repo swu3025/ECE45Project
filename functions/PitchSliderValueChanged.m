@@ -1,3 +1,4 @@
+%Samuel's Pitch Slider
 % Value changed function: PitchSlider
 function PitchSliderValueChanged(app, event)
     %https://www.mathworks.com/help/audio/ref/shiftpitch.html#:~:text=audioOut%20%3D%20shiftPitch(%20audioIn%20%2C%20nsemitones%20)%20shifts%20the%20pitch%20of,specified%20number%20of%20semitones%2C%20nsemitones%20.&text=example-,audioOut%20%3D%20shiftPitch(%20audioIn%20%2C%20nsemitones%20%2C%20Name%2CValue%20),more%20Name%2CValue%20pair%20arguments
