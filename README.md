@@ -42,6 +42,7 @@ The concept of nyquist rate was used throughout our echo cancellation, echo adde
 
 # Citations
 https://www.mathworks.com/matlabcentral/answers/309388-generate-single-cycle-of-a-sine-wave-at-a-particular-frequency
+
 https://www.mathworks.com/matlabcentral/answers/36428-sine-wave-plot
 https://www.mathworks.com/help/signal/ref/square.html
 https://www.mathworks.com/help/signal/ug/echo-cancelation.html
