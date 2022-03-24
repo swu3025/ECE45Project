@@ -1,7 +1,7 @@
 # ECE 45 Project
 
 # Contributors:
-# Samuel Wu: I created and designed the GUI and adjusted all of the functions to run on the GUI. I authored “VolumeSliderValueChanged.m”, “SpeedSliderValueChanged.m”, “PitchSliderValueChanged.m”, “MixAudioButtonPushed.m”, “ReverttoOriginalWaveButtonPushed.m”, “ChooseAudioDropDownValueChanged.m”, “SelectAudiotoMixDropDownValueChanged.m”, and “startupFcn.m”.
+## Samuel Wu ##: I created and designed the GUI and adjusted all of the functions to run on the GUI. I authored “VolumeSliderValueChanged.m”, “SpeedSliderValueChanged.m”, “PitchSliderValueChanged.m”, “MixAudioButtonPushed.m”, “ReverttoOriginalWaveButtonPushed.m”, “ChooseAudioDropDownValueChanged.m”, “SelectAudiotoMixDropDownValueChanged.m”, and “startupFcn.m”.
 
 Gordon Ling: I authored “AddEchoButtonPushed.m” and “RemoveEchoButtonPushed.m”.
 
