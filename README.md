@@ -7,7 +7,7 @@
 
 **Gordon Ling**: I authored “AddEchoButtonPushed.m” and “RemoveEchoButtonPushed.m”.
 
-**William Zhang**: I authored “sinewave.m”, “cosinewave.m”, and “squarewave.m.” I also tested the functionality of each of these functions and edited the code to better suit the GUI. The code for 
+**William Zhang**: I authored “sinewave.m”, “cosinewave.m”, and “squarewave.m.” I also tested the functionality of each of these functions and edited the code to better suit the GUI. 
 
 # Notes:
 Audio toolbox and Signal Processing Toolbox are required to run the program.
