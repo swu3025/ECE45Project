@@ -1,3 +1,4 @@
+%Gordon's Echo Remover
 % Button pushed function: RemoveEchoButton
 function RemoveEchoButtonPushed(app, event)
 if app.echoAdded
