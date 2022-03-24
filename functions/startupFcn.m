@@ -1,3 +1,4 @@
+%Samuel's start up function for GUI
 % Code that executes after component creation
 function startupFcn(app)
     %plotting the cosine wave and setting the intial values of
