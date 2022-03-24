@@ -44,9 +44,13 @@ The concept of nyquist rate was used throughout our echo cancellation, echo adde
 https://www.mathworks.com/matlabcentral/answers/309388-generate-single-cycle-of-a-sine-wave-at-a-particular-frequency
 
 https://www.mathworks.com/matlabcentral/answers/36428-sine-wave-plot
+
 https://www.mathworks.com/help/signal/ref/square.html
+
 https://www.mathworks.com/help/signal/ug/echo-cancelation.html
+
 https://www.mathworks.com/help/audio/ref/shiftpitch.html#:~:text=audioOut%20%3D%20shiftPitch(%20audioIn%20%2C%20nsemitones%20)%20shifts%20the%20pitch%20of,specified%20number%20of%20semitones%2C%20nsemitones%20.&text=example-,audioOut%20%3D%20shiftPitch(%20audioIn%20%2C%20nsemitones%20%2C%20Name%2CValue%20),more%20Name%2CValue%20pair%20arguments
+
 https://www.mathworks.com/help/audio/ref/stretchaudio.html
 
 
