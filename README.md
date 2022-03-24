@@ -5,7 +5,7 @@
 # Contributors:
 **Samuel Wu**: I created and designed the GUI and adjusted all of the functions to run on the GUI. I authored “VolumeSliderValueChanged.m”, “SpeedSliderValueChanged.m”, “PitchSliderValueChanged.m”, “MixAudioButtonPushed.m”, “ReverttoOriginalWaveButtonPushed.m”, “ChooseAudioDropDownValueChanged.m”, “SelectAudiotoMixDropDownValueChanged.m”, and “startupFcn.m”.
 
-**Gordon Ling**: I authored “AddEchoButtonPushed.m” and “RemoveEchoButtonPushed.m”.
+**Gordon Ling**: I authored “AddEchoButtonPushed.m” and “RemoveEchoButtonPushed.m”. I also tested the functionality of all the functions and ensured correct implementation of libraries. I also tested the functionality of the GUI.
 
 **William Zhang**: I authored “sinewave.m”, “cosinewave.m”, and “squarewave.m.” I also tested the functionality of each of these functions and edited the code to better suit the GUI. 
 
