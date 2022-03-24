@@ -1,3 +1,4 @@
+%Samuel's Speed Slider
 % Value changed function: SpeedSlider
 function SpeedSliderValueChanged(app, event)
     %https://www.mathworks.com/help/audio/ref/stretchaudio.html
