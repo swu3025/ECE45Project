@@ -1,3 +1,4 @@
+ %Samuel's Volume Slider
  % Value changed function: VolumeSlider
 function VolumeSliderValueChanged(app, event)
     %https://www.mathworks.com/help/audio/ref/stretchaudio.html
